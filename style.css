@@ -15,9 +15,11 @@ body {
     position: relative;
     top: 50%;
     transform: translateY(-50%);
-    font-size: 72px;
+    font-size: 108px;
+    text-shadow: 4px 4px 11px rgba(0, 0, 0, 0.2);
 }
 
 .red {
-    color: #ff2647;
+    color: #F28787;
+    font-size: 72px;
 }
