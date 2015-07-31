@@ -1,3 +1,23 @@
-body{
-    background: url('heart.png');
+@font-face {
+    font-family: always;
+    src: url('Always In My Heart.ttf')
+}
+
+body {
+    background: url('heart.png') no-repeat;
+    background-size: contain;
+    font-family: always;
+    margin-right: 100px;
+}
+
+.caption {
+    float: right;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 72px;
+}
+
+.red {
+    color: #ff2647;
 }
