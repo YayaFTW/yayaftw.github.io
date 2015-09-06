@@ -1,4 +1,6 @@
-body {
+.bg {
+    position: absolute;
     background: url('../img/bg.jpg');
-    background-size: 100%;
+    width: 120%;
+    height: 120%;
 }
