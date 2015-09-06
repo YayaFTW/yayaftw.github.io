@@ -1,0 +1,10 @@
+@font-face {
+    font-family: always;
+    src: url('../fonts/Always In My Heart.ttf')
+}
+
+body {
+    background: url('../img/bg.jpg');
+    background-size: 100%;
+    font-family: always;
+}
