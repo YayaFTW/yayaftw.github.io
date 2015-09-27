@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
     Name: Mountain
     Description: Responsive Coming Soon 
@@ -787,4 +788,11 @@ footer a:hover {
 	-webkit-background-size:cover;
 	background-position:center;
 }
+=======
+.bg {
+    position: absolute;
+    background: url('../img/bg.jpg');
+    width: 120%;
+    height: 120%;
+>>>>>>> 8f8905a0917b041f7efb4150bb7bd166a01b2795
 }
