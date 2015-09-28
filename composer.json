@@ -1,0 +1,13 @@
+{
+    "name": "yahyaharif/herobday",
+    "authors": [
+        {
+            "name": "Yahya",
+            "email": "yahya.harif@hotmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
+    }
+}
